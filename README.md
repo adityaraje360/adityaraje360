@@ -1,6 +1,6 @@
 # Hi, I’m Akash Muley 👋
 
-### QA Automation Tester | Software Testing Professional
+### 💻 QA Automation Tester | Software Testing Professional
 
 I am a QA Automation Tester focused on building reliable automation solutions and delivering high-quality software.  
 I work on Selenium, API testing, and practical test case design, and continuously improve my automation frameworks and technical skills.
@@ -16,7 +16,7 @@ I work on Selenium, API testing, and practical test case design, and continuousl
 
 ---
 
-## Skills & Tools
+## 🔑 Skills & Tools
 
 **Automation:** Selenium WebDriver (Java)  
 **API Testing:** Postman, Rest Assured  
@@ -28,7 +28,7 @@ I work on Selenium, API testing, and practical test case design, and continuousl
 
 ---
 
-## What I’m Working On
+## 📘 What I’m Working On
 
 - Building scalable Selenium automation frameworks  
 - API test automation using Rest Assured  
@@ -51,13 +51,13 @@ These are my most important repositories:
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/aakash-mule-86a619399/
 - GitHub: https://github.com/YourUsername  
 
 ---
 
-## How I Can Help
+## 📌 How I Can Help
 
 I’m open to collaboration on QA projects, automation frameworks, and learning initiatives related to quality engineering.
