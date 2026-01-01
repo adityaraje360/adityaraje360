@@ -53,7 +53,7 @@ These are my most important repositories:
 
 ## Connect With Me
 
-- LinkedIn: *(add your LinkedIn profile URL here)*  
+- LinkedIn: https://www.linkedin.com/in/aakash-mule-86a619399/
 - GitHub: https://github.com/YourUsername  
 
 ---
